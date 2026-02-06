@@ -4,49 +4,59 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3000&pause=800&color=444444&center=true&vCenter=true&width=500&lines=Seismic+Data+Processing;Machine+Learning+for+Geophysics;Signal+%26+Image+Processing;Physics-informed+Data+Analysis" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3000&pause=800&color=444444&center=true&vCenter=true&width=520&lines=Seismic+Data+Processing;Machine+Learning+for+Geophysics;Signal+%26+Image+Processing;Physics-informed+Data+Analysis" />
 </p>
 
 ---
 
-### About
+### <i class="fas fa-user-graduate"></i> About
 Postgraduate student at **IIT (ISM), Dhanbad** with a background in **Physics**, working at the intersection of **seismic data analysis, signal processing, and machine learning**.  
-Focused on building **rigorous, reproducible, and industry-relevant** geophysical workflows.
+Focused on **rigorous, reproducible, and industry-relevant** geophysical workflows.
 
 ---
 
-### Interests
-- Seismic Processing & Interpretation  
-- Wave Propagation & Scattering  
-- Machine Learning for Geophysics  
-- Time-Series & Signal Analysis  
-- Seismic Hazard & Subsurface Characterization  
+### <i class="fas fa-brain"></i> Research Interests
+- <i class="fas fa-wave-square"></i> Seismic Processing & Interpretation  
+- <i class="fas fa-project-diagram"></i> Wave Propagation & Scattering  
+- <i class="fas fa-robot"></i> Machine Learning for Geophysics  
+- <i class="fas fa-signal"></i> Signal & Time-Series Analysis  
+- <i class="fas fa-mountain"></i> Seismic Hazard Assessment  
 
 ---
 
-### Tools & Skills
-**Python · NumPy · SciPy · Pandas · Matplotlib · PyTorch · Git**  
-**OpendTect · SEG-Y · Seismic Unix (basic)**
+### <i class="fas fa-code"></i> Languages & Tools
+
+**Programming**
+- <i class="fab fa-python"></i> Python  
+- <i class="fas fa-chart-line"></i> NumPy · SciPy · Pandas  
+- <i class="fas fa-layer-group"></i> PyTorch  
+- <i class="fab fa-git-alt"></i> Git & GitHub  
+
+**Geophysical Software**
+- <i class="fas fa-cube"></i> OpendTect  
+- <i class="fas fa-file-waveform"></i> SEG-Y  
+- <i class="fas fa-terminal"></i> Seismic Unix (basic)
 
 ---
 
-### Experience
+### <i class="fas fa-briefcase"></i> Experience
 - **Summer Research Intern**, Dept. of Applied Geophysics, IIT (ISM)  
-- **Lab Training**, CSIR–NGRI Hyderabad (Seismology, MT, Gravity, Magnetics, GPS)
+- **Laboratory Training**, CSIR–NGRI Hyderabad  
+  <sub>Seismology · MT · Gravity · Magnetics · GPS</sub>
 
 ---
 
-### Currently
-- Working with **real seismic datasets in Python**  
-- Learning **deep learning foundations** for geophysical signals  
-- Designing **clean seismic processing pipelines**
+### <i class="fas fa-flask"></i> Currently Working On
+- Real seismic datasets using <i class="fab fa-python"></i> Python  
+- Machine learning foundations for geophysical signals  
+- Clean seismic processing pipelines & QC workflows  
 
 ---
 
-### Connect
-- GitHub: https://github.com/Soumya-Mahata  
-- LinkedIn: *(add when ready)*  
-- Google Scholar: *(add when ready)*
+### <i class="fas fa-link"></i> Connect
+- <i class="fab fa-github"></i> GitHub: https://github.com/Soumya-Mahata  
+- <i class="fab fa-linkedin"></i> LinkedIn: *(add when ready)*  
+- <i class="fas fa-graduation-cap"></i> Google Scholar: *(add when ready)*  
 
 ---
 
