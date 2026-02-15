@@ -1,72 +1,113 @@
-<h1 align="center">Soumya Mahata</h1>
+<!-- ===================== GRADIENT HEADER ===================== -->
 <p align="center">
-  <b>M.Sc. (Tech) Applied Geophysics · Seismic & ML</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Soumya%20Mahata&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0:0A66C2,50:2AA889,100:7ED6DF" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3000&pause=800&color=444444&center=true&vCenter=true&width=520&lines=Seismic+Data+Processing;Machine+Learning+for+Geophysics;Signal+%26+Image+Processing;Physics-informed+Data+Analysis" />
+  <b>M.Sc. (Tech) Applied Geophysics · IIT (ISM), Dhanbad</b>
+</p>
+
+<!-- ===================== BADGES (UNIFORM STYLE) ===================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Applied%20Geophysics-Research-4B6CB7?style=plastic&labelColor=E5E7EB"/>
+  <img src="https://img.shields.io/badge/Physics%20Background-Strong-6EE7B7?style=plastic&labelColor=E5E7EB"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Geophysics-93C5FD?style=plastic&labelColor=E5E7EB"/>
+  <img src="https://img.shields.io/badge/Reproducible%20Workflows-Yes-A7F3D0?style=plastic&labelColor=E5E7EB"/>
+</p>
+
+<!-- ===================== METRICS ===================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Soumya-Mahata&label=Profile%20Views&color=4B6CB7&labelColor=E5E7EB&style=plastic" />
+  <img src="https://img.shields.io/github/followers/Soumya-Mahata?label=Followers&color=6EE7B7&labelColor=E5E7EB&style=plastic&logo=github" />
+  <img src="https://img.shields.io/github/stars/Soumya-Mahata?label=Stars&color=93C5FD&labelColor=E5E7EB&style=plastic" />
+</p>
+
+<!-- ===================== TYPING ANIMATION (STABLE) ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=2800&pause=900&center=true&vCenter=true&width=600&color=0A66C2&lines=Seismic+Data+Processing;Machine+Learning+for+Geophysics;Signal+%26+Image+Processing;Physics-informed+Data+Analysis" />
 </p>
 
 ---
 
-### <i class="fas fa-user-graduate"></i> About
-Postgraduate student at **IIT (ISM), Dhanbad** with a background in **Physics**, working at the intersection of **seismic data analysis, signal processing, and machine learning**.  
+## 🎓 About
+Postgraduate student at **IIT (ISM), Dhanbad** with a background in **Physics**, working at the intersection of  
+**seismic data analysis, signal processing, and machine learning**.  
 Focused on **rigorous, reproducible, and industry-relevant** geophysical workflows.
 
 ---
 
-### <i class="fas fa-brain"></i> Research Interests
-- <i class="fas fa-wave-square"></i> Seismic Processing & Interpretation  
-- <i class="fas fa-project-diagram"></i> Wave Propagation & Scattering  
-- <i class="fas fa-robot"></i> Machine Learning for Geophysics  
-- <i class="fas fa-signal"></i> Signal & Time-Series Analysis  
-- <i class="fas fa-mountain"></i> Seismic Hazard Assessment  
+## 🧠 Research Interests
+- 🌊 Seismic Processing & Interpretation  
+- 🔁 Wave Propagation & Scattering  
+- 🤖 Machine Learning for Geophysics  
+- 📊 Signal & Time-Series Analysis  
+- ⛰️ Seismic Hazard Assessment  
 
 ---
 
-### <i class="fas fa-code"></i> Languages & Tools
+## 💻 Languages & Tools
 
-**Programming**
-- <i class="fab fa-python"></i> Python  
-- <i class="fas fa-chart-line"></i> NumPy · SciPy · Pandas  
-- <i class="fas fa-layer-group"></i> PyTorch  
-- <i class="fab fa-git-alt"></i> Git & GitHub  
+### Programming
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&labelColor=E5E7EB"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white&labelColor=E5E7EB"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=plastic&logo=scipy&logoColor=white&labelColor=E5E7EB"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white&labelColor=E5E7EB"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white&labelColor=E5E7EB"/>
+  <img src="https://img.shields.io/badge/Git-GitHub-111827?style=plastic&logo=git&labelColor=E5E7EB"/>
+</p>
 
-**Geophysical Software**
-- <i class="fas fa-cube"></i> OpendTect  
-- <i class="fas fa-file-waveform"></i> SEG-Y  
-- <i class="fas fa-terminal"></i> Seismic Unix (basic)
+### Geophysical Software
+<p>
+  <img src="https://img.shields.io/badge/OpendTect-Seismic-7C3AED?style=plastic&labelColor=E5E7EB"/>
+  <img src="https://img.shields.io/badge/SEG--Y-Data%20Format-64748B?style=plastic&labelColor=E5E7EB"/>
+  <img src="https://img.shields.io/badge/Seismic%20Unix-Basic-F59E0B?style=plastic&labelColor=E5E7EB"/>
+</p>
 
 ---
 
-### <i class="fas fa-briefcase"></i> Experience
-- **Summer Research Intern**, Dept. of Applied Geophysics, IIT (ISM)  
-- **Laboratory Training**, CSIR–NGRI Hyderabad  
+## 🧪 Experience
+- **Summer Research Intern**, Department of Applied Geophysics, IIT (ISM)  
+- **Laboratory Training**, CSIR–NGRI, Hyderabad  
   <sub>Seismology · MT · Gravity · Magnetics · GPS</sub>
 
 ---
 
-### <i class="fas fa-flask"></i> Currently Working On
-- Real seismic datasets using <i class="fab fa-python"></i> Python  
+## 🔬 Currently Working On
+- Real seismic datasets using Python  
 - Machine learning foundations for geophysical signals  
 - Clean seismic processing pipelines & QC workflows  
 
 ---
 
-### <i class="fas fa-link"></i> Connect
-- <i class="fab fa-github"></i> GitHub: https://github.com/Soumya-Mahata  
-- <i class="fab fa-linkedin"></i> LinkedIn: *(add when ready)*  
-- <i class="fas fa-graduation-cap"></i> Google Scholar: *(add when ready)*  
+## 🔗 Connect
+<p>
+  <a href="https://github.com/Soumya-Mahata">
+    <img src="https://img.shields.io/badge/GitHub-Soumya--Mahata-111827?style=plastic&logo=github&labelColor=E5E7EB"/>
+  </a>
+  <a href="https://www.linkedin.com/in/soumya-mahata" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Soumya%20Mahata-0A66C2?style=plastic&logo=linkedin&logoColor=white&labelColor=E5E7EB"/>
+  </a>
+  <img src="https://img.shields.io/badge/Google%20Scholar-Coming%20Soon-9CA3AF?style=plastic&logo=google-scholar&labelColor=E5E7EB"/>
+</p>
 
 ---
 
+## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumya-Mahata&show_icons=true&hide_title=true&hide_rank=true&theme=default" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-Mahata&layout=compact&theme=default" height="130"/>
+  <img src="https://img.shields.io/github/last-commit/Soumya-Mahata/Soumya-Mahata?style=plastic&labelColor=E5E7EB" />
+  <img src="https://img.shields.io/github/commit-activity/m/Soumya-Mahata/Soumya-Mahata?style=plastic&labelColor=E5E7EB" />
+  <img src="https://img.shields.io/github/languages/count/Soumya-Mahata/Soumya-Mahata?style=plastic&labelColor=E5E7EB" />
+  <img src="https://img.shields.io/github/repo-size/Soumya-Mahata/Soumya-Mahata?style=plastic&labelColor=E5E7EB" />
+</p>
+
+---
+
+<!-- ===================== GRADIENT FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=40&section=footer&color=0:0A66C2,50:2AA889,100:7ED6DF" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Soumya-Mahata&theme=flat&row=1&column=6" />
+  <i>Physics-driven insight. Data-driven execution.</i>
 </p>
-
-<p align="center"><i>Physics-driven insight. Data-driven execution.</i></p>
